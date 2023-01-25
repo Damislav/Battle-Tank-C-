@@ -1,1 +1,3 @@
-# Battle-Tank-C-
+# Battle-Tank-C++
+
+## Battle tank game made in C++
